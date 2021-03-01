@@ -1,9 +1,8 @@
 ### Hi there 👋:raising_hand:💻
 
-<img src="https://github.com/loressl/loressl/blob/main/banner_profile.png" width="800" alt="Banner profile">
-
+<img src="https://github.com/loressl/loressl/blob/main/banner_profile.png" width="90%" alt="Banner profile">
 <code>
- <div display="flex" flex-direction="row" align="center" flex="1" margin="10px" justify-content="space-around" >
+ <div display="flex"  justify-content="space-around" >
   <img src="https://github-readme-stats.vercel.app/api?username=loressl&show_icons=true" alt="Lorena stats" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loressl&layout=compact" alt="Lorena Most Language" />
