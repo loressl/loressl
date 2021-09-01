@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React, Next, React Native and Node.
 - 🇧🇷 Born in Salvador-BA
-- :woman_technologist: Full Stack Developer at ![Mobix Software Studio](https://github.com/mobixsoftwarestudio)
+- :woman_technologist: Junior Developer at ![Compasso UOL](https://compassouol.com/)
 - :mortar_board: Graduating in Systems Analysis and Development from the Federal Institute of Bahia.
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/lorena-lima-78a9b752/)
 
