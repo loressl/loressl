@@ -1,6 +1,6 @@
 ### Hi there 👋:raising_hand:💻
 
-## :information_source:Aboute me
+## :information_source:About me
 
 - 🌱 I’m currently learning React, Next, React Native and Node.
 - 🇧🇷 Born in Salvador-BA
@@ -49,7 +49,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
-### IDE💻
+### CODE EDITOR💻
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loressl&theme=dracula)
