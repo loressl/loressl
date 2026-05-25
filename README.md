@@ -1,12 +1,14 @@
-### Hi there 👋:raising_hand:💻
+## ℹ️ About Me
 
-## :information_source:About me
+👋 Hi! I'm a **Software Developer** based in Salvador, Brazil, with nearly **5 years of experience** building dynamic, scalable, and user-centric web applications. 
 
-- 🌱 I’m currently learning React, Next, React Native and Node.
-- 🇧🇷 Born in Salvador-BA
-- :woman_technologist: Software Developer at [Compasso UOL](https://compassouol.com/)
-- :mortar_board: Graduated in Systems Analysis and Development from the Federal Institute of Bahia.
-- 📫 You can reach here [Linkedin](https://www.linkedin.com/in/lorena-lima-78a9b752/)
+Currently, I work at **Compasso UOL**, specializing in Frontend development, internal portals, and end-to-end features.
+
+- 💻 **Core Expertise:** React, Next.js, and modern Frontend ecosystems.
+- 🛠️ **Full-Stack Capability:** Hands-on experience with Node.js, Python, and React Native.
+- 🎓 **Education:** Graduated in *Systems Analysis and Development* from the Federal Institute of Bahia (IFBA).
+
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/lorena-lima-78a9b752/)
 
 
 <!-- <img src="https://github.com/loressl/loressl/blob/main/banner_profile.png" width="90%" alt="Banner profile"> -->
