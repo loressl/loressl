@@ -7,6 +7,8 @@ Currently, I work at **Compasso UOL**, specializing in Frontend development, int
 - 💻 **Core Expertise:** React, Next.js, and modern Frontend ecosystems.
 - 🛠️ **Full-Stack Capability:** Hands-on experience with Node.js, Python, and React Native.
 - 🎓 **Education:** Graduated in *Systems Analysis and Development* from the Federal Institute of Bahia (IFBA).
+- 🤖 **AI-Driven Development:** Leveraging advanced AI tools and LLMs to optimize workflow efficiency, code quality, and automation.
+-  🎨 **AI Generative Media:** Experienced in using Generative AI for image creation, video synthesis, and UI/UX prototyping (Midjourney, DALL-E, Runway).
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/lorena-lima-78a9b752/)
 
@@ -56,11 +58,21 @@ Currently, I work at **Compasso UOL**, specializing in Frontend development, int
 ### Code Editor 💻
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
+### Artificial Intelligence & Productivity 🤖
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292E?style=for-the-badge&logo=githubcopilot&logoColor=white)&nbsp;
+
+### AI Generative Media & Design 🎨🎥
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Google Veo](https://img.shields.io/badge/Google_Veo-4285F4?style=for-the-badge&logo=google&logoColor=white)&nbsp;
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)&nbsp;
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loressl&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loressl&theme=dracula) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=loressl&theme=dracula) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loressl&theme=dracula) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loressl&theme=dracula)
+
 
 <p align="left">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=loressl&theme=dracula" alt="GitHub Streak" />
