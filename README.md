@@ -30,7 +30,7 @@ Currently, I work at **Compasso UOL**, specializing in Frontend development, int
 
 ### Databases ⚡
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&omegaColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
@@ -44,15 +44,16 @@ Currently, I work at **Compasso UOL**, specializing in Frontend development, int
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
-### Package Managers
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-
 ### Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
-### Code Editor💻
+### Package Managers & Build Tools 🛠️
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-B738CF?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
+
+### Code Editor 💻
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loressl&theme=dracula)
@@ -62,10 +63,7 @@ Currently, I work at **Compasso UOL**, specializing in Frontend development, int
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loressl&theme=dracula)
 
 <p align="left">
-<a href="https://github.com/loressl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loressl&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loressl&layout=compact&theme=dracula"/>
-</a>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=loressl&theme=dracula" alt="GitHub Streak" />
 </p>
 
 <!--
